@@ -1,0 +1,16 @@
+.Map{
+  width: 75vw;
+  height: 75vh;
+}
+
+.pop{
+  height:30vw;
+  width:30vh;
+  color:red;
+}
+
+.mapSearchbar{
+  height:10vw;
+  height: 75vw;
+  border: 1px solid black;
+}

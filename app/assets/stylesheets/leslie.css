@@ -1,0 +1,19 @@
+.me{
+  height:100px;
+  width:100px;
+
+}
+
+.searchbar{
+  height:10px;
+  border:20px solid black;
+  width: 75vh;
+  float: left;
+
+}
+
+.linkOnMe{
+  font-size: 20px;
+  color:blue;
+  float:left;
+}
